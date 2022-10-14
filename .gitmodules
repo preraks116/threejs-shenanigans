@@ -1,3 +1,6 @@
 [submodule "threejs-fbx-preview"]
 	path = threejs-fbx-preview
 	url = https://github.com/preraks116/threejs-fbx-preview
+[submodule "Shippy-Shoot"]
+	path = Shippy-Shoot
+	url = https://github.com/preraks116/Shippy-Shoot
