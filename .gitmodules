@@ -4,3 +4,6 @@
 [submodule "Shippy-Shoot"]
 	path = Shippy-Shoot
 	url = https://github.com/preraks116/Shippy-Shoot
+[submodule "react-three-fiber-playground"]
+	path = react-three-fiber-playground
+	url = https://github.com/preraks116/react-three-fiber-playground
