@@ -7,3 +7,6 @@
 [submodule "react-three-fiber-playground"]
 	path = react-three-fiber-playground
 	url = https://github.com/preraks116/react-three-fiber-playground
+[submodule "threejs-earthquake-simulator"]
+	path = threejs-earthquake-simulator
+	url = https://github.com/preraks116/threejs-earthquake-simulator
